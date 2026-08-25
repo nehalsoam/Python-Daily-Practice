@@ -1,0 +1,11 @@
+s1=float(input("enter marks of s1: "))
+# s2=float(input("enter marks of s2: "))
+# s3=float(input("enter marks of s3: "))
+# s4=float(input("enter marks of s4: "))
+# s5=float(input("enter marks of s5: "))
+# total=s1+s2+s3+s4+s5
+# average=total/5
+# percentage=total/500*100
+# print("total marks= ",total)
+# print("average= ",average)
+# print("percentage= ",percentage,"%")
