@@ -1,7 +1,7 @@
 #Q1->check number is even or odd
 num=int(input("enter a num: "))
 result="Even"*(num%2==0)+"Odd"*(num%2==1)
-print(result)45
+print(result)
 
 #Q2->find total,average,percentage of 5subjects
 s1=float(input("enter marks of s1: "))
